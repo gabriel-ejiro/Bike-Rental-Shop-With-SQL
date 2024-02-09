@@ -1,4 +1,3 @@
-psql --username=freecodecamp --dbname=postgres
 #!/bin/bash
 
 PSQL="psql -X --username=freecodecamp --dbname=bikes --tuples-only -c"
